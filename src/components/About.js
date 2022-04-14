@@ -21,7 +21,7 @@ export default function About () {
                     Upon his return, he dedicated about 1% ...
                 </Card.Text>
             </Card.Body>
-            <Card.Img style={{ width: '50%', margin: '0 auto'}}  variant="bottom" src="hotsprings.jpg" />
+            <Card.Img style={{ width: '50%', margin: '0 auto', marginBottom: "1rem"}}  variant="bottom" src="hotsprings.jpg" />
         </Card>
     </Container>
     )
